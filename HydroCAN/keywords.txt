@@ -1,0 +1,14 @@
+HydroCAN	KEYWORD1
+getVoltage	KEYWORD2
+getCurrent	KEYWORD2
+getRPM	KEYWORD2
+getOdometer	KEYWORD2
+getControllerTemperature	KEYWORD2
+getMotorTemperature	KEYWORD2
+getBatteryTemperature	KEYWORD2
+getInputPWM	KEYWORD2
+getOutputPWM	KEYWORD2
+readWarnings	KEYWORD2
+readErrors	KEYWORD2
+update	KEYWORD2
+initialize	KEYWORD2
